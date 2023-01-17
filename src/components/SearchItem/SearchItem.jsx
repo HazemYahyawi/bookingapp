@@ -1,5 +1,5 @@
 import React from 'react'
-import "./SearchItem"
+import "./SearchItem.css"
 
 export const SearchItem = () => {
   return (
