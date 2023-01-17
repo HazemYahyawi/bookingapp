@@ -18,6 +18,13 @@ export const Hotels = () => {
     <div>
       <Navbar />
       <Header type="list" />
+      <button className="never"
+      onClick={()=>{
+        setDestination(1)
+        setOptions(1)
+      }}>
+
+      </button>
       <div className="listContainer">
         <div className="listWrapper">
           <div className="listSearch">

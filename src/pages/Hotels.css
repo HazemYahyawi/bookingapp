@@ -81,3 +81,6 @@
   .listResult {
     flex: 3;
   }
+  .never{
+    display: none;
+  }
