@@ -184,7 +184,7 @@ import {
                             className="optionCounterButton"
                             onClick={() => handleOption("room", "i")}
                           >
-                            +
+                            
                           </button>
                         </div>
                       </div>
